@@ -1,0 +1,316 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 808}}";
+			sepNavSelRange = "{326, 0}";
+			sepNavVisRange = "{0, 469}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 1767}}";
+			sepNavSelRange = "{264, 0}";
+			sepNavVisRange = "{0, 1241}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CHKakao */ = {
+		activeExec = 0;
+		executables = (
+			841A348F1353F11400F178E1 /* CHKakao */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CHKakaoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 808}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 578}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CHKakaoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 1881}}";
+			sepNavSelRange = "{534, 0}";
+			sepNavVisRange = "{180, 1110}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 841A348F1353F11400F178E1 /* CHKakao */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CHKakao */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CHKakao */,
+		);
+		codeSenseManager = 841A34991353F11C00F178E1 /* Code sense */;
+		executables = (
+			841A348F1353F11400F178E1 /* CHKakao */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					462,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					574,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					534,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324290165;
+			PBXWorkspaceStateSaveDate = 324290165;
+		};
+		perUserProjectItems = {
+			841A35121354435D00F178E1 /* PlistBookmark */ = 841A35121354435D00F178E1 /* PlistBookmark */;
+			841A3528135445BA00F178E1 /* PBXTextBookmark */ = 841A3528135445BA00F178E1 /* PBXTextBookmark */;
+			841A3529135445BA00F178E1 /* PBXTextBookmark */ = 841A3529135445BA00F178E1 /* PBXTextBookmark */;
+			841A352A135445BA00F178E1 /* PBXTextBookmark */ = 841A352A135445BA00F178E1 /* PBXTextBookmark */;
+			841A352B135445BA00F178E1 /* PBXTextBookmark */ = 841A352B135445BA00F178E1 /* PBXTextBookmark */;
+			841A352D135445BA00F178E1 /* PBXTextBookmark */ = 841A352D135445BA00F178E1 /* PBXTextBookmark */;
+			841A352E135445BA00F178E1 /* PBXTextBookmark */ = 841A352E135445BA00F178E1 /* PBXTextBookmark */;
+			841A352F135445BA00F178E1 /* PBXBookmark */ = 841A352F135445BA00F178E1 /* PBXBookmark */;
+			841A3552135446FC00F178E1 /* PlistBookmark */ = 841A3552135446FC00F178E1 /* PlistBookmark */;
+			841A3553135446FC00F178E1 /* PBXTextBookmark */ = 841A3553135446FC00F178E1 /* PBXTextBookmark */;
+			841A3554135446FC00F178E1 /* PBXTextBookmark */ = 841A3554135446FC00F178E1 /* PBXTextBookmark */;
+			841A3555135446FC00F178E1 /* PBXTextBookmark */ = 841A3555135446FC00F178E1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 841A34981353F11C00F178E1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 804}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 358}";
+		};
+	};
+	841A348F1353F11400F178E1 /* CHKakao */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CHKakao;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	841A34981353F11C00F178E1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	841A34991353F11C00F178E1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	841A349B1353F14700F178E1 /* KakaoLinkCenter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 836}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 833}";
+		};
+	};
+	841A349C1353F14700F178E1 /* KakaoLinkCenter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 1938}}";
+			sepNavSelRange = "{942, 0}";
+			sepNavVisRange = "{0, 1274}";
+		};
+	};
+	841A35121354435D00F178E1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 841A34CF1353F5BB00F178E1 /* e.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Volumes/RAMDisk/prjs5/NEKakao/e.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	841A3528135445BA00F178E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 841A349B1353F14700F178E1 /* KakaoLinkCenter.h */;
+		name = "KakaoLinkCenter.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 0;
+	};
+	841A3529135445BA00F178E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 841A349C1353F14700F178E1 /* KakaoLinkCenter.m */;
+		name = "KakaoLinkCenter.m: 28";
+		rLen = 0;
+		rLoc = 942;
+		rType = 0;
+		vrLen = 1274;
+		vrLoc = 0;
+	};
+	841A352A135445BA00F178E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AppDelegate.m */;
+		name = "CHKakaoAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 1241;
+		vrLoc = 0;
+	};
+	841A352B135445BA00F178E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CHKakaoViewController.m */;
+		name = "NEKakaoViewController.m: 22";
+		rLen = 0;
+		rLoc = 534;
+		rType = 0;
+		vrLen = 1110;
+		vrLoc = 180;
+	};
+	841A352D135445BA00F178E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CHKakaoViewController.h */;
+		name = "CHKakaoViewController.h: 12";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 0;
+	};
+	841A352E135445BA00F178E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 0;
+	};
+	841A352F135445BA00F178E1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 841A34A01353F24700F178E1 /* kakaotalkicon_7070.png */;
+	};
+	841A354F135446C400F178E1 /* CHKakao_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 804}}";
+			sepNavSelRange = "{183, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	841A3552135446FC00F178E1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CHKakao-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/RAMDisk/prjs5/CHKakaoLink/CHKakao-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	841A3553135446FC00F178E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 841A354F135446C400F178E1 /* CHKakao_Prefix.pch */;
+		name = "CHKakao_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	841A3554135446FC00F178E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 358;
+		vrLoc = 0;
+	};
+	841A3555135446FC00F178E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 358;
+		vrLoc = 0;
+	};
+}
